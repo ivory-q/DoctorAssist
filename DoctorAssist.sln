@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorAssist", "DoctorAssist.csproj", "{82FCB967-6B60-4F9D-A462-4736E2C990D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82FCB967-6B60-4F9D-A462-4736E2C990D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82FCB967-6B60-4F9D-A462-4736E2C990D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82FCB967-6B60-4F9D-A462-4736E2C990D0}.Debug|x64.ActiveCfg = Debug|x64
+		{82FCB967-6B60-4F9D-A462-4736E2C990D0}.Debug|x64.Build.0 = Debug|x64
+		{82FCB967-6B60-4F9D-A462-4736E2C990D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82FCB967-6B60-4F9D-A462-4736E2C990D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82FCB967-6B60-4F9D-A462-4736E2C990D0}.Release|x64.ActiveCfg = Release|x64
+		{82FCB967-6B60-4F9D-A462-4736E2C990D0}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F205A57-C7A7-45B7-8DB9-1B43243FB17A}
+	EndGlobalSection
+EndGlobal
